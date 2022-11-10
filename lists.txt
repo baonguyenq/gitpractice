@@ -9,11 +9,7 @@ MEAT
 
 
 DAIRY
-milk
-eggs
-yoghurt
-butter
-cheese
+
 
 HOUSEHOLD
 
